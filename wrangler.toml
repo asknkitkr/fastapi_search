@@ -1,0 +1,6 @@
+name = "fastapi_search"
+compatibility_date = "2024-05-10"
+
+[vars]
+UPSTASH_REDIS_REST_TOKEN="AYfhAAIncDFjMmY0NWQ3NDNmOGU0ODhiYWQyOTI3MjVmNzNkN2NmZnAxMzQ3ODU"
+UPSTASH_REDIS_REST_URL="https://sincere-doe-34785.upstash.io"
